@@ -1,0 +1,143 @@
+<resources>
+    <string-array name="food_appetizer_menu">
+        <item>French Fries</item>
+        <item>Masala French Fries</item>
+        <item>Crispy Potato Wedges</item>
+        <item>Tortilla Nachos with Salsa</item>
+        <item>Chilly Paneer</item>
+        <item>Schezwan Paneer</item>
+    </string-array>
+
+    <string-array name="food_appetizer_des">
+        <item>Served with Mayonnaise Sauce</item>
+        <item>Served with Mayonnaise Sauce</item>
+        <item>Crispy batter fried potato wedges marinated with Indian herbs &amp; spices</item>
+        <item>Tortilla chips served with salsa sauce</item>
+        <item>Succulent cubes of Paneer cooked with Capsicum, Onions &amp; Chillies</item>
+        <item>Cubes of Paneer with Capsicum, Onions &amp; Chillies and Schezwan Sauce</item>
+    </string-array>
+
+    <string-array name="food_appetizer_price">
+        <item>70</item>
+        <item>80</item>
+        <item>80</item>
+        <item>95</item>
+        <item>150</item>
+        <item>170</item>
+    </string-array>
+
+    <string-array name="food_rice_menu">
+        <item>Veg Fried Rice</item>
+        <item>Schezwan Rice</item>
+        <item>Indian Combo</item>
+    </string-array>
+
+    <string-array name="food_rice_des">
+        <item>Rice tossed with exotic veggies</item>
+        <item>Rice tossed with veggies and Schezwan sauce</item>
+        <item>Jeera Rice + Paneer Butter Masala + Papad</item>
+    </string-array>
+
+    <string-array name="food_rice_price">
+        <item>110</item>
+        <item>120</item>
+        <item>200</item>
+    </string-array>
+
+    <string-array name="food_beverages_menu">
+        <item>Hot Coffee</item>
+        <item>Black Coffee</item>
+        <item>Cold Coffee</item>
+        <item>Cold Coffee with ice-cream</item>
+        <item>Chocolate Shake</item>
+        <item>Latte Oreo Shake</item>
+        <item>Brownie Shake</item>
+    </string-array>
+
+    <string-array name="food_beverages_des">
+        <item>Enjoy the smoothness with rich coffee</item>
+        <item>A delight</item>
+        <item>Cold Coffee with whipped cream</item>
+        <item>Cold Coffee with whipped cream and a shot  of Vanilla ice-cream</item>
+        <item>Choice of Chocolates 5 Star, Kitkat, with Chocolate Sauce and ice-cream</item>
+        <item>Espresso Shot, Chocolate Sauce, Chocolate ice-Cream, Oreo Cookies</item>
+        <item>Espresso shot blended with Chocolate Brownie, ice-cream and Chocolate Sauce</item>
+    </string-array>
+
+    <string-array name="food_beverages_price">
+        <item>50</item>
+        <item>40</item>
+        <item>90</item>
+        <item>110</item>
+        <item>120</item>
+        <item>120</item>
+        <item>110</item>
+    </string-array>
+
+    <string-array name="food_drinks_menu">
+        <item>Cold Drinks</item>
+        <item>Red Bull</item>
+        <item>Mineral Water</item>
+    </string-array>
+
+    <string-array name="food_drinks_price">
+        <item>50</item>
+        <item>150</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="hookah_pan_combo_menu">
+        <item>Pan Salsa</item>
+        <item>Pan Rasna</item>
+        <item>Magai Pan</item>
+        <item>Teen Pan (3 Pan)</item>
+        <item>Supari</item>
+        <item>Pan Masala</item>
+        <item>Pan 160</item>
+        <item>Double Apple</item>
+        <item>Orange/ Grape/ Guava</item>
+        <item>Kiwi</item>
+        <item>Kachi Keri</item>
+        <item>Blueberry</item>
+        <item>Watermelon</item>
+        <item>All Fruit Mix</item>
+        <item>Mint</item>
+        <item>Night Queen</item>
+        <item>Mosaic</item>
+        <item>Pink Mischief</item>
+        <item>Silver Fox</item>
+        <item>Sex on the beach</item>
+        <item>Red Bull</item>
+        <item>Brain Freezer</item>
+        <item>Spring Water</item>
+        <item>Mini-max</item>
+    </string-array>
+
+    <string-array name="hookah_pot_base_menu">
+        <item>Water</item>
+        <item>Ice Base (Extra \u20B9 : 50)</item>
+        <item>Milk (Extra \u20B9 : 50)</item>
+        <item>Coke/ Thums up (Extra \u20B9 : 100)</item>
+        <item>Red Bull (Extra \u20B9 : 150)</item>
+        <item>Pulpy Orange (Extra \u20B9 : 50)</item>
+    </string-array>
+
+    <string-array name="hookah_chillam_heads_menu">
+        <item>Normal</item>
+        <item>Apple/ Mosambi (Extra \u20B9 : 200)</item>
+        <item>Watermelon/ Pineapple (Extra \u20B9 : 200)</item>
+        <item>Fresh Coconut (Extra \u20B9 : 200)</item>
+    </string-array>
+
+    <string-array name="hookah_special_combos">
+        <item>Kiwi/Pan Rasna\nBase : Water\nHead : Normal</item>
+        <item>Double Apple/Supari\nBase : Water\nHead : Normal</item>
+        <item>Magai Pan/Spring Water\nBase : Water\nHead : Normal</item>
+    </string-array>
+
+    <string-array name="hookah_special_combos_prices">
+        <item>300</item>
+        <item>300</item>
+        <item>300</item>
+    </string-array>
+</resources>

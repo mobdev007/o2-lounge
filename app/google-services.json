@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_id": "o2-lounge",
+    "project_number": "729436690116",
+    "name": "O2 Lounge"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729436690116:android:cadc1a932ee8c573",
+        "client_id": "android:com.ospring.o2lounge",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.ospring.o2lounge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729436690116-qns3j2tkae3fdh4anf1iitdo7tp4re2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ospring.o2lounge",
+            "certificate_hash": "A574064FD107F092C08874DCF9159610F33818A3"
+          }
+        },
+        {
+          "client_id": "729436690116-c7veo7cp6ana3bnsklch1m8cihd7vdvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ospring.o2lounge",
+            "certificate_hash": "16C81E7B28FCC550D88F255946496CA1A7AFF4EE"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
